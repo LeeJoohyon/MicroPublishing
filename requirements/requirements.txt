@@ -26,7 +26,7 @@ termcolor==1.1.0
 typing==3.6.2
 wcwidth==0.1.7
 websocket-client==0.44.0
-urllib3==1.22
+urllib3==1.26.5
 django-s3-storage==0.12.3
 boto==2.48.0
 djangorestframework-jwt==1.11.0
